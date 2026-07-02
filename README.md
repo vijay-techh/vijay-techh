@@ -16,18 +16,18 @@ A techie who loves playing with fire(problems)
 - 🤖 Exploring Machine Learning
 - 🌱 Currently learning **Azure Data Services & Advanced Analytics**
 - 💬 Ask me about **Python, SQL, Power BI, Excel, Pandas, NumPy**
-- 📫 Reach me: **yourmail@gmail.com**
+- 📫 Reach me: **vijayvijaayyyyy@gmail.com**
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile">
+<a href="www.linkedin.com/in/vijay-v-470554336">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/vijay-techh">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -89,9 +89,9 @@ A techie who loves playing with fire(problems)
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vijay-techh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-techh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -101,7 +101,7 @@ A techie who loves playing with fire(problems)
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-techh&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -111,7 +111,7 @@ A techie who loves playing with fire(problems)
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay-techh&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -131,7 +131,7 @@ A techie who loves playing with fire(problems)
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vijay-techh&theme=algolia&row=1&column=7"/>
 
 </p>
 
@@ -155,7 +155,7 @@ A techie who loves playing with fire(problems)
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00C7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vijay-techh&label=Profile%20Views&color=00C7FF&style=for-the-badge"/>
 
 </p>
 
