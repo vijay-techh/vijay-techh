@@ -55,6 +55,10 @@ A techie who loves playing with fire(problems)
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+
+  <img src="https://img.shields.io/badge/aws-black?style=for-the-badge&logo=aws"/>
+https://img.shields.io/badge/aws-black
+
 </p>
 
 ### Database
