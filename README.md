@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vijay V</h1>
-<h3 align="center">📊 Data Analyst | SQL • Python • Power BI • Excel • Machine Learning</h3>
+<h3 align="center">🧪 QA Automation Engineer | Python • Selenium • SQL • API Testing • Manual Testing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights.;Data+Analyst+%7C+Business+Intelligence.;Python+%7C+SQL+%7C+Power+BI.;Always+Learning+New+Things." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Breaking+Software+Before+Users+Do.;QA+Automation+Engineer+%7C+Python+%7C+Selenium.;Manual+Testing+%7C+API+Testing+%7C+SQL.;Always+Learning+Automation+%26+Quality+Engineering." />
 </p>
 
 ---
 
 # 💫 About Me
-A techie who loves playing with fire(problems)
-- 📊 Skilled in Data Analysis & Visualization
-- 📈 Building interactive Power BI Dashboards
-- 🐍 Python for Data Analytics & Automation
-- 🗄 SQL for Data Querying & Database Management
-- 🤖 Exploring Machine Learning
-- 🌱 Currently learning **Azure Data Services & Advanced Analytics**
-- 💬 Ask me about **Python, SQL, Power BI, Excel, Pandas, NumPy**
+
+A techie who loves finding bugs before users find them.
+
+- 🧪 Passionate about Software Testing & Quality Assurance.
+- 🤖 Building automation frameworks using Selenium with Python.
+- 🐍 Python for Test Automation & Scripting.
+- 🗄 SQL for Database Validation & Backend Testing.
+- 🌐 Learning API Testing with Postman & Python Requests.
+- ⚡ Exploring CI/CD and Test Automation.
+- 🌱 Currently learning **PyTest, Jenkins, GitHub Actions & Playwright.**
+- 💬 Ask me about **Python, Selenium, SQL, Manual Testing, API Testing.**
 - 📫 Reach me: **vijayvijaayyyyy@gmail.com**
 
 ---
@@ -23,7 +26,8 @@ A techie who loves playing with fire(problems)
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/vijay-v-470554336">
+
+<a href="https://www.linkedin.com/in/vijay-v-470554336">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -41,48 +45,83 @@ A techie who loves playing with fire(problems)
 
 # 💻 Tech Stack
 
-### Programming
+## Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,r"/>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
-### Data Analysis
+## Test Automation
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-<img src="https://img.shields.io/badge/aws-black?style=for-the-badge&logo=aws"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### Database
+## Manual Testing
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://img.shields.io/badge/Test%20Cases-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bug%20Reporting-D73A49?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STLC-512DA8?style=for-the-badge"/>
 </p>
 
-### Tools
+## Database Testing
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
 
 # 🚀 Current Projects
 
-📊 Sales Dashboard using Power BI
+- ✅ Selenium Automation Framework using Python.
+- 🌐 API Testing Collection with Postman.
+- 🛒 E-Commerce Website Automation Testing.
+- 🏦 Banking Application Test Cases & Bug Reports.
+- 🗄 SQL Database Validation Project.
 
-📈 Customer Churn Prediction
+---
 
-📉 Financial Data Analysis with Python
+# 📂 Featured Automation Projects
 
-🛒 Retail Sales Insights Dashboard
+### 🧪 Selenium Login Automation
+Automated login flow with Selenium WebDriver using Python.
 
-🤖 Machine Learning Classification Projects
+### 🌐 API Testing Suite
+REST API validation using Postman and Python Requests.
+
+### 🛒 E-Commerce Test Automation
+End-to-end automation for search, cart and checkout flow.
+
+### 🗄 SQL Testing Scenarios
+Database validation queries and backend testing exercises.
+
+### 📋 Manual Testing Project
+Test plan, test cases, bug reports and RTM for a web application.
+
+---
+
+# 🧠 Currently Learning
+
+- Selenium with Python
+- PyTest Framework
+- API Automation (Requests + Postman)
+- Playwright
+- Jenkins CI/CD
+- GitHub Actions for Automation Testing
 
 ---
 
@@ -122,7 +161,7 @@ A techie who loves playing with fire(problems)
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,anaconda"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode"/>
 
 </p>
 
@@ -138,35 +177,11 @@ A techie who loves playing with fire(problems)
 
 ---
 
-# 📌 Featured Projects
-
-⭐ Sales Dashboard
-
-⭐ HR Analytics Dashboard
-
-⭐ Netflix Data Analysis
-
-⭐ Customer Segmentation
-
-⭐ SQL Business Problems
-
----
-
-# 📈 Profile Views
+# 💡 QA Philosophy
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vijay-techh&label=Profile%20Views&color=00C7FF&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
+> **"Quality is never an accident; it is always the result of intelligent effort." — John Ruskin**
 
 </p>
 
@@ -174,6 +189,6 @@ A techie who loves playing with fire(problems)
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile! Let's build reliable software together. ⭐
 
 </p>
